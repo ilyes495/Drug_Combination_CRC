@@ -1,0 +1,12 @@
+data
+FastJTNNpy3/fast_molvae/processed
+FastJTNNpy3/fast_molvae/vae_model
+FastJTNNpy3/fast_molvae/vae_model2
+FastJTNNpy3/fast_bo/results
+FastJTNNpy3/Old/
+GeneVAE/data/
+GeneVAE/data/model
+MLP/data/
+MLP/trainedModels/
+.ipynb_checkpoints
+MLP/results/
