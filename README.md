@@ -1,4 +1,7 @@
-# Drug_Combination_CRC
+# A heuristic approach to identify cancdidate drugs to use in combination for CRC treatment
+
+## Data Processing
+   - The notebook EDA contains the code to process the raw drugs, cell lines gene expression, and mutation data for downstream procedures
 
 ## Train FastJTNNpy3 : Junction Tree Variational Autoencoder for Molecular Graph Generation
    - The TrainJTNN notebook in FastJTNNpy3 folder contains the code to train the Junction Tree Variational Autoencoder and obtain the latent representation for the drugs
